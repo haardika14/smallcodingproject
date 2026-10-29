@@ -19,4 +19,3 @@ while True:
     if user_input == 'yes':
         print("Goodbye")
         break
-    
